@@ -12,4 +12,4 @@ Now you can copy the text , download the image , share the image with other peop
 ***RUNNING THE PROJECT***  
 You can either install Android studio and rn the file to produce the .apk which can run on an emulator or your device in debug mode.    
 OR  
-You can see the applications in **ApplicationSccreenShots** Folder.    
+You can see the applications in **ApplicationScreenShots** Folder.    
