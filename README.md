@@ -3,7 +3,7 @@
 ***ABOUT THE PROJECT***  
 Created a simple application with 2 activities    
 **ACTIVITY1**    
-Activity 1 has images and textviews empedded in a recycler view. You can select an image and move to next activity.    
+Activity 1 has images and text views embedded in a recycler view. You can select an image and move to the next activity.    
 
 **ACTIVITY2**     
 The images and text selected in Activity1 appear in Activity 2.   
